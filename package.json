@@ -1,0 +1,21 @@
+{
+  "name": "cnote",
+  "version": "0.1.0",
+  "description": "A note taking application for the command line",
+  "main": "app.js",
+  "repository": "git@github.com:bgunn/cnote.git",
+  "author": "Billy Gunn",
+  "license": "GPL-3.0-only",
+  "preferGlobal": true,
+  "bin": "./cnote.js",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1",
+    "lokijs": "^1.5.6",
+    "marked": "^0.6.2",
+    "marked-terminal": "^3.2.0",
+    "moment": "^2.24.0",
+    "terminal-kit": "^1.28.0",
+    "text-machine": "^0.1.0"
+  }
+}
