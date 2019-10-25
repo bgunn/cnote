@@ -8,7 +8,7 @@ ln -s cnote.js /usr/local/bin/cnote
 ## Usage
 ### Add a note
 Add a note applying some markdown and tagging the note as personal and todo  
-`cnote add "This is **my** first note. Be sure to delete it!" -t personal,todo` . 
+`cnote add "This is **my** first note. Be sure to delete it!" -t personal,todo`   
 
 ### List notes
 List all notes  
