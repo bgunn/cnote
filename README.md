@@ -2,8 +2,10 @@
 A command line note taking application
 
 ## Install
-yarn install (or npm install)
-ln -s cnote.js /usr/local/bin/cnote  
+```
+yarn install # (or npm install)
+ln -s `pwd`/cnote.js /usr/local/bin/cnote  
+```
 
 ## Usage
 ### Add a note
