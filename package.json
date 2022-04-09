@@ -14,7 +14,7 @@
     "lokijs": "^1.5.6",
     "marked": "^0.6.2",
     "marked-terminal": "^3.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "terminal-kit": "^1.28.0",
     "text-machine": "^0.1.0"
   }
