@@ -15,7 +15,7 @@
     "marked": "^0.6.2",
     "marked-terminal": "^3.2.0",
     "moment": "^2.24.0",
-    "terminal-kit": "^1.28.0",
+    "terminal-kit": "^2.1.8",
     "text-machine": "^0.1.0"
   }
 }
